@@ -1,0 +1,33 @@
+body {
+  text-align:left;
+  font-family: 'Roboto', serif;
+  background-color: #f1efe6;
+  color: #8d9183;
+}
+
+
+img{
+  max-width:60%;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 4px;
+  box-shadow: 40px -20px #cfabaa;
+  padding-bottom: 20px;
+  
+}
+
+p{ font-family: "Roboto";
+text-align: justify;
+padding-left: 30px;
+padding-right: 30px;
+}
+
+a{font-family: 'slabo 27px' italic;
+  color: #b76e79;
+
+  
+}
+h3{
+    padding-bottom: 20px;
+}
